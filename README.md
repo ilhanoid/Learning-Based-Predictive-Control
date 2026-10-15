@@ -65,9 +65,9 @@ Install MATLAB and the relevant toolboxes:
 
 ![ILC and DeePC results](all_results/ilc_deepc_results.png)
 
-**ILC + DeePC architecture**
+**ILC + MPC architecture**
 
-![ILC and DeePC block diagram](all_results/ilc_mpc_block_diagram.png)
+![ILC and MPC block diagram](all_results/ilc_mpc_block_diagram.jfif)
 
 
 **ILC + MPC simulation**
